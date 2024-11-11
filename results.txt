@@ -1,0 +1,989 @@
+10.1.199.203 - - [05/Nov/2024 21:54:21] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 35
+16:54:20.932823
+Uplink freq 868300000, RSSI -60, SNR 15.25
+10.1.199.203 - - [05/Nov/2024 21:54:21] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 35
+16:54:21.311000
+Uplink freq 868300000, RSSI -104, SNR 4.0
+10.1.199.203 - - [05/Nov/2024 21:54:21] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 35
+16:54:21.441000
+Uplink freq 868300000, RSSI -98, SNR 2.299999952316284
+10.1.199.203 - - [05/Nov/2024 21:54:21] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 35
+16:54:21.571000
+Uplink freq 868300000, RSSI -99, SNR 3.5
+10.1.199.203 - - [05/Nov/2024 21:55:30] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 36
+16:55:30.275141
+Uplink freq 868500000, RSSI -60, SNR 11.0
+10.1.199.203 - - [05/Nov/2024 21:55:30] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 36
+16:55:30.661000
+Uplink freq 868500000, RSSI -105, SNR 4.25
+10.1.199.203 - - [05/Nov/2024 21:55:31] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 36
+16:55:30.790000
+Uplink freq 868500000, RSSI -100, SNR 6.25
+10.1.199.203 - - [05/Nov/2024 21:55:31] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 36
+16:55:30.921000
+Uplink freq 868500000, RSSI -99, SNR 4.300000190734863
+10.1.199.203 - - [05/Nov/2024 21:56:39] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 37
+16:56:39.643341
+Uplink freq 867100000, RSSI -61, SNR 14.75
+10.1.199.203 - - [05/Nov/2024 21:56:40] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 37
+16:56:40.027192
+Uplink freq 867100000, RSSI -50, SNR 14.5
+10.1.199.203 - - [05/Nov/2024 21:56:40] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 37
+16:56:40.156871
+Uplink freq 867100000, RSSI -43, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 21:56:40] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 37
+16:56:40.282000
+Uplink freq 867100000, RSSI -97, SNR 0.25
+10.1.199.203 - - [05/Nov/2024 21:57:48] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 38
+16:57:48.017868
+Uplink freq 867300000, RSSI -60, SNR 15.0
+10.1.199.203 - - [05/Nov/2024 21:57:48] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 38
+16:57:48.402958
+Uplink freq 867300000, RSSI -49, SNR 16.25
+10.1.199.203 - - [05/Nov/2024 21:57:48] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 38
+16:57:48.533131
+Uplink freq 867300000, RSSI -43, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 21:57:48] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 38
+16:57:48.660000
+Uplink freq 867300000, RSSI -101, SNR -0.25
+10.1.199.203 - - [05/Nov/2024 21:58:57] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 39
+16:58:57.398696
+Uplink freq 867500000, RSSI -61, SNR 10.25
+10.1.199.203 - - [05/Nov/2024 21:58:58] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 39
+16:58:57.793158
+Uplink freq 867500000, RSSI -49, SNR 10.0
+10.1.199.203 - - [05/Nov/2024 21:58:58] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 39
+16:58:57.923346
+Uplink freq 867500000, RSSI -43, SNR 11.5
+10.1.199.203 - - [05/Nov/2024 21:58:58] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 39
+16:58:58.053113
+Uplink freq 867500000, RSSI -50, SNR 11.5
+10.1.199.203 - - [05/Nov/2024 22:00:07] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 40
+17:00:06.776346
+Uplink freq 867700000, RSSI -61, SNR 12.5
+10.1.199.203 - - [05/Nov/2024 22:00:07] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 40
+17:00:07.171907
+Uplink freq 867700000, RSSI -48, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:00:07] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 40
+17:00:07.291000
+Uplink freq 867700000, RSSI -42, SNR 16.0
+10.1.199.203 - - [05/Nov/2024 22:00:07] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 40
+17:00:07.421000
+Uplink freq 867700000, RSSI -103, SNR -1.5
+10.1.199.203 - - [05/Nov/2024 22:01:15] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 41
+17:01:15.162015
+Uplink freq 867900000, RSSI -61, SNR 16.5
+10.1.199.203 - - [05/Nov/2024 22:01:15] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 41
+17:01:15.546710
+Uplink freq 867900000, RSSI -107, SNR -4.5
+10.1.199.203 - - [05/Nov/2024 22:01:15] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 41
+17:01:15.670000
+Uplink freq 867900000, RSSI -97, SNR -2.299999952316284
+10.1.199.203 - - [05/Nov/2024 22:01:16] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 41
+17:01:15.800000
+Uplink freq 867900000, RSSI -99, SNR -5.5
+10.1.199.203 - - [05/Nov/2024 22:02:24] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 42
+17:02:24.524523
+Uplink freq 868100000, RSSI -60, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:02:25] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 42
+17:02:24.920141
+Uplink freq 868100000, RSSI -47, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:02:25] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 42
+17:02:25.040000
+Uplink freq 868100000, RSSI -41, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:02:25] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 42
+17:02:25.180143
+Uplink freq 868100000, RSSI -99, SNR -5.5
+10.1.199.203 - - [05/Nov/2024 22:03:34] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 43
+17:03:33.888945
+Uplink freq 868300000, RSSI -60, SNR 15.25
+10.1.199.203 - - [05/Nov/2024 22:03:34] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 43
+17:03:34.276000
+Uplink freq 868300000, RSSI -105, SNR 2.0
+10.1.199.203 - - [05/Nov/2024 22:03:34] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 43
+17:03:34.406000
+Uplink freq 868300000, RSSI -40, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:03:34] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 43
+17:03:34.536000
+Uplink freq 868300000, RSSI -50, SNR 14.5
+10.1.199.203 - - [05/Nov/2024 22:04:42] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 44
+17:04:42.274000
+Uplink freq 868500000, RSSI -115, SNR -6.75
+10.1.199.203 - - [05/Nov/2024 22:04:42] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 44
+17:04:42.664000
+Uplink freq 868500000, RSSI -105, SNR 4.25
+10.1.199.203 - - [05/Nov/2024 22:04:43] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 44
+17:04:42.794000
+Uplink freq 868500000, RSSI -40, SNR 10.5
+10.1.199.203 - - [05/Nov/2024 22:04:43] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 44
+17:04:42.924000
+Uplink freq 868500000, RSSI -99, SNR 5.800000190734863
+10.1.199.203 - - [05/Nov/2024 22:07:01] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 45
+17:07:01.036031
+Uplink freq 867300000, RSSI -60, SNR 15.75
+10.1.199.203 - - [05/Nov/2024 22:07:01] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 45
+17:07:01.420697
+Uplink freq 867300000, RSSI -49, SNR 16.25
+10.1.199.203 - - [05/Nov/2024 22:07:01] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 45
+17:07:01.551291
+Uplink freq 867300000, RSSI -42, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:07:01] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 45
+17:07:01.681812
+Uplink freq 867300000, RSSI -101, SNR -0.25
+10.1.199.203 - - [05/Nov/2024 22:08:09] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 46
+17:08:09.405656
+Uplink freq 867500000, RSSI -61, SNR 10.0
+10.1.199.203 - - [05/Nov/2024 22:08:10] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 46
+17:08:09.790417
+Uplink freq 867500000, RSSI -105, SNR -4.5
+10.1.199.203 - - [05/Nov/2024 22:08:10] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 46
+17:08:09.920640
+Uplink freq 867500000, RSSI -43, SNR 11.5
+10.1.199.203 - - [05/Nov/2024 22:08:10] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 46
+17:08:10.050945
+Uplink freq 867500000, RSSI -101, SNR 1.0
+10.1.199.203 - - [05/Nov/2024 22:09:19] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 47
+17:09:18.773369
+Uplink freq 867700000, RSSI -61, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:09:19] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 47
+17:09:19.169691
+Uplink freq 867700000, RSSI -106, SNR -2.75
+10.1.199.203 - - [05/Nov/2024 22:09:19] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 47
+17:09:19.300084
+Uplink freq 867700000, RSSI -42, SNR 15.75
+10.1.199.203 - - [05/Nov/2024 22:09:19] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 47
+17:09:19.420000
+Uplink freq 867700000, RSSI -98, SNR 0.0
+10.1.199.203 - - [05/Nov/2024 22:10:28] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 48
+17:10:28.161376
+Uplink freq 867900000, RSSI -61, SNR 16.0
+10.1.199.203 - - [05/Nov/2024 22:10:28] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 48
+17:10:28.548232
+Uplink freq 867900000, RSSI -48, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:10:28] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 48
+17:10:28.670000
+Uplink freq 867900000, RSSI -100, SNR 3.5
+10.1.199.203 - - [05/Nov/2024 22:10:29] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 48
+17:10:28.800000
+Uplink freq 867900000, RSSI -102, SNR -4.0
+10.1.199.203 - - [05/Nov/2024 22:11:36] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 49
+17:11:36.539034
+Uplink freq 868100000, RSSI -60, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:11:37] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 49
+17:11:36.924049
+Uplink freq 868100000, RSSI -47, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:11:37] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 49
+17:11:37.054410
+Uplink freq 868100000, RSSI -41, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:11:37] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 49
+17:11:37.184702
+Uplink freq 868100000, RSSI -50, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:12:46] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 50
+17:12:45.914984
+Uplink freq 868300000, RSSI -115, SNR -9.75
+10.1.199.203 - - [05/Nov/2024 22:12:46] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 50
+17:12:46.299000
+Uplink freq 868300000, RSSI -46, SNR 16.25
+10.1.199.203 - - [05/Nov/2024 22:12:46] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 50
+17:12:46.429000
+Uplink freq 868300000, RSSI -99, SNR 4.300000190734863
+10.1.199.203 - - [05/Nov/2024 22:12:46] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 50
+17:12:46.559000
+Uplink freq 868300000, RSSI -100, SNR 2.0
+10.1.199.203 - - [05/Nov/2024 22:13:55] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 51
+17:13:55.285000
+Uplink freq 868500000, RSSI -115, SNR -1.75
+10.1.199.203 - - [05/Nov/2024 22:13:55] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 51
+17:13:55.675000
+Uplink freq 868500000, RSSI -105, SNR 5.5
+10.1.199.203 - - [05/Nov/2024 22:13:56] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 51
+17:13:55.804000
+Uplink freq 868500000, RSSI -99, SNR 2.5
+10.1.199.203 - - [05/Nov/2024 22:13:56] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 51
+17:13:55.935000
+Uplink freq 868500000, RSSI -97, SNR 10.75
+10.1.199.203 - - [05/Nov/2024 22:15:03] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 52
+17:15:03.671417
+Uplink freq 867100000, RSSI -61, SNR 14.75
+10.1.199.203 - - [05/Nov/2024 22:15:04] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 52
+17:15:04.056468
+Uplink freq 867100000, RSSI -50, SNR 13.5
+10.1.199.203 - - [05/Nov/2024 22:15:04] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 52
+17:15:04.178000
+Uplink freq 867100000, RSSI -43, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:15:04] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 52
+17:15:04.308000
+Uplink freq 867100000, RSSI -95, SNR 0.0
+10.1.199.203 - - [05/Nov/2024 22:16:13] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 53
+17:16:13.039665
+Uplink freq 867300000, RSSI -61, SNR 16.0
+10.1.199.203 - - [05/Nov/2024 22:16:13] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 53
+17:16:13.433785
+Uplink freq 867300000, RSSI -107, SNR -1.5
+10.1.199.203 - - [05/Nov/2024 22:16:13] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 53
+17:16:13.553000
+Uplink freq 867300000, RSSI -96, SNR -8.0
+10.1.199.203 - - [05/Nov/2024 22:16:13] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 53
+17:16:13.683000
+Uplink freq 867300000, RSSI -50, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:17:22] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 54
+17:17:22.424260
+Uplink freq 867500000, RSSI -61, SNR 9.25
+10.1.199.203 - - [05/Nov/2024 22:17:23] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 54
+17:17:22.819798
+Uplink freq 867500000, RSSI -106, SNR -8.5
+10.1.199.203 - - [05/Nov/2024 22:17:23] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 54
+17:17:22.950288
+Uplink freq 867500000, RSSI -43, SNR 11.25
+10.1.199.203 - - [05/Nov/2024 22:17:23] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 54
+17:17:23.080287
+Uplink freq 867500000, RSSI -50, SNR 11.5
+10.1.199.203 - - [05/Nov/2024 22:18:31] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 55
+17:18:30.801416
+Uplink freq 867700000, RSSI -61, SNR 11.25
+10.1.199.203 - - [05/Nov/2024 22:18:31] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 55
+17:18:31.195686
+Uplink freq 867700000, RSSI -48, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:18:31] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 55
+17:18:31.326116
+Uplink freq 867700000, RSSI -102, SNR -1.25
+10.1.199.203 - - [05/Nov/2024 22:18:31] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 55
+17:18:31.455859
+Uplink freq 867700000, RSSI -50, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:19:40] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 56
+17:19:40.178139
+Uplink freq 867900000, RSSI -61, SNR 16.25
+10.1.199.203 - - [05/Nov/2024 22:19:40] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 56
+17:19:40.573179
+Uplink freq 867900000, RSSI -48, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:19:40] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 56
+17:19:40.694000
+Uplink freq 867900000, RSSI -97, SNR -1.5
+10.1.199.203 - - [05/Nov/2024 22:19:41] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 56
+17:19:40.824000
+Uplink freq 867900000, RSSI -102, SNR 0.25
+10.1.199.203 - - [05/Nov/2024 22:20:49] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 57
+17:20:49.538476
+Uplink freq 868100000, RSSI -60, SNR 13.25
+10.1.199.203 - - [05/Nov/2024 22:20:50] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 57
+17:20:49.934014
+Uplink freq 868100000, RSSI -47, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:20:50] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 57
+17:20:50.064060
+Uplink freq 868100000, RSSI -41, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:20:50] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 57
+17:20:50.194196
+Uplink freq 868100000, RSSI -50, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:21:58] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 58
+17:21:57.916000
+Uplink freq 868300000, RSSI -115, SNR -4.5
+10.1.199.203 - - [05/Nov/2024 22:21:58] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 58
+17:21:58.306000
+Uplink freq 868300000, RSSI -46, SNR 16.25
+10.1.199.203 - - [05/Nov/2024 22:21:58] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 58
+17:21:58.436000
+Uplink freq 868300000, RSSI -99, SNR 6.800000190734863
+10.1.199.203 - - [05/Nov/2024 22:21:58] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 58
+17:21:58.566000
+Uplink freq 868300000, RSSI -100, SNR 3.799999952316284
+10.1.199.203 - - [05/Nov/2024 22:23:07] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 59
+17:23:07.295000
+Uplink freq 868500000, RSSI -60, SNR 10.25
+10.1.199.203 - - [05/Nov/2024 22:23:07] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 59
+17:23:07.689031
+Uplink freq 868500000, RSSI -46, SNR 12.5
+10.1.199.203 - - [05/Nov/2024 22:23:08] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 59
+17:23:07.819674
+Uplink freq 868500000, RSSI -100, SNR -8.0
+10.1.199.203 - - [05/Nov/2024 22:23:08] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 59
+17:23:07.945000
+Uplink freq 868500000, RSSI -97, SNR 9.75
+10.1.199.203 - - [05/Nov/2024 22:24:16] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 60
+17:24:16.677410
+Uplink freq 867100000, RSSI -61, SNR 14.5
+10.1.199.203 - - [05/Nov/2024 22:24:17] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 60
+17:24:17.062086
+Uplink freq 867100000, RSSI -106, SNR -2.75
+10.1.199.203 - - [05/Nov/2024 22:24:17] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 60
+17:24:17.192286
+Uplink freq 867100000, RSSI -106, SNR -9.5
+10.1.199.203 - - [05/Nov/2024 22:24:17] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 60
+17:24:17.318000
+Uplink freq 867100000, RSSI -92, SNR -9.5
+10.1.199.203 - - [05/Nov/2024 22:25:25] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 61
+17:25:25.054236
+Uplink freq 867300000, RSSI -60, SNR 16.0
+10.1.199.203 - - [05/Nov/2024 22:25:25] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 61
+17:25:25.449725
+Uplink freq 867300000, RSSI -49, SNR 16.0
+10.1.199.203 - - [05/Nov/2024 22:25:25] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 61
+17:25:25.579859
+Uplink freq 867300000, RSSI -42, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:25:25] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 61
+17:25:25.698000
+Uplink freq 867300000, RSSI -94, SNR -0.800000011920929
+10.1.199.203 - - [05/Nov/2024 22:26:34] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 62
+17:26:34.430158
+Uplink freq 867500000, RSSI -61, SNR 10.5
+10.1.199.203 - - [05/Nov/2024 22:26:35] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 62
+17:26:34.825463
+Uplink freq 867500000, RSSI -49, SNR 10.0
+10.1.199.203 - - [05/Nov/2024 22:26:35] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 62
+17:26:34.955745
+Uplink freq 867500000, RSSI -43, SNR 11.5
+10.1.199.203 - - [05/Nov/2024 22:26:35] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 62
+17:26:35.085737
+Uplink freq 867500000, RSSI -50, SNR 11.5
+10.1.199.203 - - [05/Nov/2024 22:27:44] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 63
+17:27:43.805820
+Uplink freq 867700000, RSSI -61, SNR 13.25
+10.1.199.203 - - [05/Nov/2024 22:27:44] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 63
+17:27:44.201796
+Uplink freq 867700000, RSSI -48, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:27:44] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 63
+17:27:44.321000
+Uplink freq 867700000, RSSI -99, SNR -0.5
+10.1.199.203 - - [05/Nov/2024 22:27:44] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 63
+17:27:44.451000
+Uplink freq 867700000, RSSI -102, SNR -4.75
+10.1.199.203 - - [05/Nov/2024 22:28:52] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 64
+17:28:52.181676
+Uplink freq 867900000, RSSI -61, SNR 16.5
+10.1.199.203 - - [05/Nov/2024 22:28:52] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 64
+17:28:52.566695
+Uplink freq 867900000, RSSI -48, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:28:52] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 64
+17:28:52.692000
+Uplink freq 867900000, RSSI -97, SNR -1.2999999523162842
+10.1.199.203 - - [05/Nov/2024 22:28:53] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 64
+17:28:52.822000
+Uplink freq 867900000, RSSI -51, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:30:01] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 65
+17:30:01.554089
+Uplink freq 868100000, RSSI -60, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:30:02] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 65
+17:30:01.949563
+Uplink freq 868100000, RSSI -47, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:30:02] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 65
+17:30:02.079583
+Uplink freq 868100000, RSSI -41, SNR 13.5
+10.1.199.203 - - [05/Nov/2024 22:30:02] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 65
+17:30:02.209730
+Uplink freq 868100000, RSSI -50, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:31:11] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 66
+17:31:10.941877
+Uplink freq 868300000, RSSI -60, SNR 15.25
+10.1.199.203 - - [05/Nov/2024 22:31:11] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 66
+17:31:11.321000
+Uplink freq 868300000, RSSI -104, SNR -0.25
+10.1.199.203 - - [05/Nov/2024 22:31:11] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 66
+17:31:11.451000
+Uplink freq 868300000, RSSI -40, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:31:11] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 66
+17:31:11.581000
+Uplink freq 868300000, RSSI -100, SNR 1.2999999523162842
+10.1.199.203 - - [05/Nov/2024 22:32:19] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 67
+17:32:19.310000
+Uplink freq 868500000, RSSI -116, SNR -7.5
+10.1.199.203 - - [05/Nov/2024 22:32:20] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 67
+17:32:19.830000
+Uplink freq 868500000, RSSI -40, SNR 10.5
+10.1.199.203 - - [05/Nov/2024 22:32:20] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 67
+17:32:19.960000
+Uplink freq 868500000, RSSI -97, SNR 10.5
+10.1.199.203 - - [05/Nov/2024 22:33:28] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 68
+17:33:28.670912
+Uplink freq 867100000, RSSI -61, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:33:29] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 67
+17:33:29.067155
+Uplink freq 867100000, RSSI -50, SNR 14.5
+10.1.199.203 - - [05/Nov/2024 22:33:29] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 68
+17:33:29.197342
+Uplink freq 867100000, RSSI -43, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:33:29] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 68
+17:33:29.318000
+Uplink freq 867100000, RSSI -51, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:35:46] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 69
+17:35:46.432516
+Uplink freq 867500000, RSSI -61, SNR 11.5
+10.1.199.203 - - [05/Nov/2024 22:35:47] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 68
+17:35:46.828754
+Uplink freq 867500000, RSSI -49, SNR 9.5
+10.1.199.203 - - [05/Nov/2024 22:35:47] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 69
+17:35:46.958939
+Uplink freq 867500000, RSSI -101, SNR -1.25
+10.1.199.203 - - [05/Nov/2024 22:35:47] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 69
+17:35:47.088935
+Uplink freq 867500000, RSSI -50, SNR 11.25
+10.1.199.203 - - [05/Nov/2024 22:36:56] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 70
+17:36:55.807319
+Uplink freq 867700000, RSSI -61, SNR 15.25
+10.1.199.203 - - [05/Nov/2024 22:36:56] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 69
+17:36:56.203590
+Uplink freq 867700000, RSSI -48, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:36:56] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 70
+17:36:56.334069
+Uplink freq 867700000, RSSI -42, SNR 16.0
+10.1.199.203 - - [05/Nov/2024 22:36:56] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 70
+17:36:56.453964
+Uplink freq 867700000, RSSI -50, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:38:05] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 71
+17:38:05.180602
+Uplink freq 867900000, RSSI -61, SNR 16.0
+10.1.199.203 - - [05/Nov/2024 22:38:05] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 70
+17:38:05.576265
+Uplink freq 867900000, RSSI -48, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:38:05] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 71
+17:38:05.706500
+Uplink freq 867900000, RSSI -42, SNR 14.75
+10.1.199.203 - - [05/Nov/2024 22:38:06] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 71
+17:38:05.836820
+Uplink freq 867900000, RSSI -51, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:39:13] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 72
+17:39:13.563729
+Uplink freq 868100000, RSSI -60, SNR 13.5
+10.1.199.203 - - [05/Nov/2024 22:39:14] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 71
+17:39:13.948432
+Uplink freq 868100000, RSSI -47, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:39:14] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 72
+17:39:14.074000
+Uplink freq 868100000, RSSI -92, SNR -5.5
+10.1.199.203 - - [05/Nov/2024 22:39:14] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 72
+17:39:14.208005
+Uplink freq 868100000, RSSI -50, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:40:23] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 73
+17:40:22.932876
+Uplink freq 868300000, RSSI -59, SNR 15.5
+10.1.199.203 - - [05/Nov/2024 22:40:23] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 72
+17:40:23.327432
+Uplink freq 868300000, RSSI -46, SNR 16.25
+10.1.199.203 - - [05/Nov/2024 22:40:23] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 73
+17:40:23.448000
+Uplink freq 868300000, RSSI -94, SNR -6.0
+10.1.199.203 - - [05/Nov/2024 22:40:23] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 73
+17:40:23.578000
+Uplink freq 868300000, RSSI -94, SNR -6.300000190734863
+10.1.199.203 - - [05/Nov/2024 22:41:32] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 74
+17:41:32.309000
+Uplink freq 868500000, RSSI -108, SNR -9.300000190734863
+10.1.199.203 - - [05/Nov/2024 22:41:32] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 73
+17:41:32.708959
+Uplink freq 868500000, RSSI -46, SNR 12.25
+10.1.199.203 - - [05/Nov/2024 22:41:33] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 74
+17:41:32.829000
+Uplink freq 868500000, RSSI -40, SNR 10.5
+10.1.199.203 - - [05/Nov/2024 22:41:33] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 74
+17:41:32.959000
+Uplink freq 868500000, RSSI -50, SNR 10.75
+10.1.199.203 - - [05/Nov/2024 22:42:40] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 75
+17:42:40.695631
+Uplink freq 867100000, RSSI -61, SNR 14.5
+10.1.199.203 - - [05/Nov/2024 22:42:41] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 74
+17:42:41.090997
+Uplink freq 867100000, RSSI -50, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:42:41] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 75
+17:42:41.221048
+Uplink freq 867100000, RSSI -43, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:42:41] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 75
+17:42:41.339000
+Uplink freq 867100000, RSSI -103, SNR -4.75
+10.1.199.203 - - [05/Nov/2024 22:43:50] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 76
+17:43:50.076482
+Uplink freq 867300000, RSSI -61, SNR 15.75
+10.1.199.203 - - [05/Nov/2024 22:43:50] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 75
+17:43:50.461032
+Uplink freq 867300000, RSSI -49, SNR 16.0
+10.1.199.203 - - [05/Nov/2024 22:43:50] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 76
+17:43:50.591017
+Uplink freq 867300000, RSSI -42, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:43:50] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 76
+17:43:50.716000
+Uplink freq 867300000, RSSI -98, SNR 5.25
+10.1.199.203 - - [05/Nov/2024 22:44:59] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 77
+17:44:59.453985
+Uplink freq 867500000, RSSI -61, SNR 10.25
+10.1.199.203 - - [05/Nov/2024 22:45:00] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 76
+17:44:59.847831
+Uplink freq 867500000, RSSI -49, SNR 10.0
+10.1.199.203 - - [05/Nov/2024 22:45:00] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 77
+17:44:59.977989
+Uplink freq 867500000, RSSI -43, SNR 11.5
+10.1.199.203 - - [05/Nov/2024 22:45:00] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 77
+17:45:00.108011
+Uplink freq 867500000, RSSI -50, SNR 11.5
+10.1.199.203 - - [05/Nov/2024 22:46:08] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 78
+17:46:07.818492
+Uplink freq 867700000, RSSI -61, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:46:08] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 77
+17:46:08.213920
+Uplink freq 867700000, RSSI -105, SNR -8.25
+10.1.199.203 - - [05/Nov/2024 22:46:08] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 78
+17:46:08.344054
+Uplink freq 867700000, RSSI -42, SNR 16.25
+10.1.199.203 - - [05/Nov/2024 22:46:08] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 78
+17:46:08.462000
+Uplink freq 867700000, RSSI -94, SNR -5.800000190734863
+10.1.199.203 - - [05/Nov/2024 22:47:17] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 79
+17:47:17.203215
+Uplink freq 867900000, RSSI -61, SNR 16.5
+10.1.199.203 - - [05/Nov/2024 22:47:17] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 78
+17:47:17.599646
+Uplink freq 867900000, RSSI -107, SNR -8.5
+10.1.199.203 - - [05/Nov/2024 22:47:17] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 79
+17:47:17.715000
+Uplink freq 867900000, RSSI -42, SNR 15.0
+10.1.199.203 - - [05/Nov/2024 22:47:18] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 79
+17:47:17.845000
+Uplink freq 867900000, RSSI -51, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:48:26] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 80
+17:48:26.579792
+Uplink freq 868100000, RSSI -60, SNR 12.75
+10.1.199.203 - - [05/Nov/2024 22:48:27] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 79
+17:48:26.973358
+Uplink freq 868100000, RSSI -47, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:48:27] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 80
+17:48:27.090000
+Uplink freq 868100000, RSSI -41, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:48:27] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 80
+17:48:27.220000
+Uplink freq 868100000, RSSI -93, SNR -7.800000190734863
+10.1.199.203 - - [05/Nov/2024 22:49:35] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 81
+17:49:34.942085
+Uplink freq 868300000, RSSI -59, SNR 15.25
+10.1.199.203 - - [05/Nov/2024 22:49:35] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 80
+17:49:35.325000
+Uplink freq 868300000, RSSI -46, SNR 16.25
+10.1.199.203 - - [05/Nov/2024 22:49:35] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 81
+17:49:35.455000
+Uplink freq 868300000, RSSI -40, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:49:35] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 81
+17:49:35.585000
+Uplink freq 868300000, RSSI -49, SNR 14.75
+10.1.199.203 - - [05/Nov/2024 22:50:44] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 82
+17:50:44.317000
+Uplink freq 868500000, RSSI -115, SNR -5.25
+10.1.199.203 - - [05/Nov/2024 22:50:44] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 81
+17:50:44.707000
+Uplink freq 868500000, RSSI -104, SNR 3.0
+10.1.199.203 - - [05/Nov/2024 22:50:45] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 82
+17:50:44.837000
+Uplink freq 868500000, RSSI -40, SNR 10.25
+10.1.199.203 - - [05/Nov/2024 22:50:45] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 82
+17:50:44.967000
+Uplink freq 868500000, RSSI -97, SNR 6.25
+10.1.199.203 - - [05/Nov/2024 22:51:53] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 83
+17:51:53.697253
+Uplink freq 867100000, RSSI -61, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:51:54] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 82
+17:51:54.091646
+Uplink freq 867100000, RSSI -50, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 22:51:54] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 83
+17:51:54.211000
+Uplink freq 867100000, RSSI -95, SNR -8.0
+10.1.199.203 - - [05/Nov/2024 22:51:54] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 83
+17:51:54.341000
+Uplink freq 867100000, RSSI -91, SNR -8.0
+10.1.199.203 - - [05/Nov/2024 22:53:02] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 84
+17:53:02.081579
+Uplink freq 867300000, RSSI -61, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:53:02] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 83
+17:53:02.475191
+Uplink freq 867300000, RSSI -106, SNR -8.5
+10.1.199.203 - - [05/Nov/2024 22:53:02] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 84
+17:53:02.591000
+Uplink freq 867300000, RSSI -43, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:53:02] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 84
+17:53:02.734601
+Uplink freq 867300000, RSSI -98, SNR 4.25
+10.1.199.203 - - [05/Nov/2024 22:54:11] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 85
+17:54:11.464869
+Uplink freq 867500000, RSSI -61, SNR 11.25
+10.1.199.203 - - [05/Nov/2024 22:54:12] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 84
+17:54:11.859898
+Uplink freq 867500000, RSSI -49, SNR 10.0
+10.1.199.203 - - [05/Nov/2024 22:54:12] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 85
+17:54:11.990172
+Uplink freq 867500000, RSSI -43, SNR 11.25
+10.1.199.203 - - [05/Nov/2024 22:54:12] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 85
+17:54:12.120424
+Uplink freq 867500000, RSSI -50, SNR 11.5
+10.1.199.203 - - [05/Nov/2024 22:55:20] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 86
+17:55:19.837344
+Uplink freq 867700000, RSSI -61, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:55:20] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 85
+17:55:20.231877
+Uplink freq 867700000, RSSI -48, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:55:20] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 86
+17:55:20.362010
+Uplink freq 867700000, RSSI -42, SNR 15.75
+10.1.199.203 - - [05/Nov/2024 22:55:20] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 86
+17:55:20.491933
+Uplink freq 867700000, RSSI -101, SNR 1.5
+10.1.199.203 - - [05/Nov/2024 22:56:29] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 87
+17:56:29.206481
+Uplink freq 867900000, RSSI -61, SNR 15.75
+10.1.199.203 - - [05/Nov/2024 22:56:29] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 86
+17:56:29.602532
+Uplink freq 867900000, RSSI -48, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 22:56:29] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 87
+17:56:29.721000
+Uplink freq 867900000, RSSI -96, SNR -6.800000190734863
+10.1.199.203 - - [05/Nov/2024 22:56:30] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 87
+17:56:29.851000
+Uplink freq 867900000, RSSI -90, SNR -12.0
+10.1.199.203 - - [05/Nov/2024 22:57:38] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 88
+17:57:38.587118
+Uplink freq 868100000, RSSI -60, SNR 12.75
+10.1.199.203 - - [05/Nov/2024 22:57:39] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 87
+17:57:38.982543
+Uplink freq 868100000, RSSI -47, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:57:39] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 88
+17:57:39.102080
+Uplink freq 868100000, RSSI -97, SNR -12.0
+10.1.199.203 - - [05/Nov/2024 22:57:39] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 88
+17:57:39.231924
+Uplink freq 868100000, RSSI -50, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 22:58:48] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 89
+17:58:47.940305
+Uplink freq 868300000, RSSI -60, SNR 16.0
+10.1.199.203 - - [05/Nov/2024 22:58:48] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 88
+17:58:48.335431
+Uplink freq 868300000, RSSI -46, SNR 16.25
+10.1.199.203 - - [05/Nov/2024 22:58:48] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 89
+17:58:48.452000
+Uplink freq 868300000, RSSI -94, SNR -5.800000190734863
+10.1.199.203 - - [05/Nov/2024 22:58:48] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 89
+17:58:48.582000
+Uplink freq 868300000, RSSI -94, SNR -7.300000190734863
+10.1.199.203 - - [05/Nov/2024 22:59:56] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 90
+17:59:56.318019
+Uplink freq 868500000, RSSI -60, SNR 10.25
+10.1.199.203 - - [05/Nov/2024 22:59:56] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 89
+17:59:56.694000
+Uplink freq 868500000, RSSI -94, SNR -8.5
+10.1.199.203 - - [05/Nov/2024 22:59:57] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 90
+17:59:56.824000
+Uplink freq 868500000, RSSI -40, SNR 10.75
+10.1.199.203 - - [05/Nov/2024 22:59:57] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 90
+17:59:56.954000
+Uplink freq 868500000, RSSI -94, SNR -5.800000190734863
+10.1.199.203 - - [05/Nov/2024 23:01:05] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 91
+18:01:05.681602
+Uplink freq 867100000, RSSI -61, SNR 14.5
+10.1.199.203 - - [05/Nov/2024 23:01:06] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 90
+18:01:06.077094
+Uplink freq 867100000, RSSI -50, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 23:01:06] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 91
+18:01:06.191000
+Uplink freq 867100000, RSSI -43, SNR 13.75
+10.1.199.203 - - [05/Nov/2024 23:01:06] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 91
+18:01:06.337289
+Uplink freq 867100000, RSSI -96, SNR 2.75
+10.1.199.203 - - [05/Nov/2024 23:02:15] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 92
+18:02:15.045677
+Uplink freq 867300000, RSSI -61, SNR 16.0
+10.1.199.203 - - [05/Nov/2024 23:02:15] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 91
+18:02:15.441163
+Uplink freq 867300000, RSSI -49, SNR 16.25
+10.1.199.203 - - [05/Nov/2024 23:02:15] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 92
+18:02:15.571308
+Uplink freq 867300000, RSSI -42, SNR 14.5
+10.1.199.203 - - [05/Nov/2024 23:02:15] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 92
+18:02:15.688000
+Uplink freq 867300000, RSSI -94, SNR 0.5
+10.1.199.203 - - [05/Nov/2024 23:03:30] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 93
+18:03:30.231762
+Uplink freq 867500000, RSSI -61, SNR 11.0
+10.1.199.203 - - [05/Nov/2024 23:03:30] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 92
+18:03:30.627284
+Uplink freq 867500000, RSSI -49, SNR 10.75
+10.1.199.203 - - [05/Nov/2024 23:03:30] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 93
+18:03:30.757499
+Uplink freq 867500000, RSSI -43, SNR 11.5
+10.1.199.203 - - [05/Nov/2024 23:03:31] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 93
+18:03:30.887185
+Uplink freq 867500000, RSSI -50, SNR 11.25
+10.1.199.203 - - [05/Nov/2024 23:04:32] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 94
+18:04:32.772604
+Uplink freq 867700000, RSSI -61, SNR 13.25
+10.1.199.203 - - [05/Nov/2024 23:04:33] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 93
+18:04:33.166916
+Uplink freq 867700000, RSSI -106, SNR -7.5
+10.1.199.203 - - [05/Nov/2024 23:04:33] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 94
+18:04:33.285000
+Uplink freq 867700000, RSSI -102, SNR -0.25
+10.1.199.203 - - [05/Nov/2024 23:04:33] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 94
+18:04:33.416000
+Uplink freq 867700000, RSSI -104, SNR -3.75
+10.1.199.203 - - [05/Nov/2024 23:05:42] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 95
+18:05:42.126686
+Uplink freq 867900000, RSSI -61, SNR 16.0
+10.1.199.203 - - [05/Nov/2024 23:05:42] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 94
+18:05:42.522388
+Uplink freq 867900000, RSSI -48, SNR 13.5
+10.1.199.203 - - [05/Nov/2024 23:05:42] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 95
+18:05:42.636000
+Uplink freq 867900000, RSSI -42, SNR 14.75
+10.1.199.203 - - [05/Nov/2024 23:05:43] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 95
+18:05:42.782857
+Uplink freq 867900000, RSSI -51, SNR 14.5
+10.1.199.203 - - [05/Nov/2024 23:06:50] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e3255727: 96
+18:06:50.501311
+Uplink freq 868100000, RSSI -60, SNR 12.0
+10.1.199.203 - - [05/Nov/2024 23:06:51] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e39c4c27: 95
+18:06:50.886276
+Uplink freq 868100000, RSSI -47, SNR 14.25
+10.1.199.203 - - [05/Nov/2024 23:06:51] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e33d0c27: 96
+18:06:51.016471
+Uplink freq 868100000, RSSI -41, SNR 14.0
+10.1.199.203 - - [05/Nov/2024 23:06:51] "POST /?event=up HTTP/1.1" 200 -
+Total uplinks of e6616407e365b124: 96
+18:06:51.146930
+Uplink freq 868100000, RSSI -50, SNR 14.0
+
